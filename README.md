@@ -22,7 +22,6 @@ const andres = {
     semester: "Octavo semestre",
     role: "Desarrollador en formación",
     languages: ["JavaScript", "Python", "Java", "C++"],
-    interests: ["Desarrollo Web", "Algoritmos", "Open Source"],
     goals2025: ["Conseguir prácticas profesionales", "Dominar React"]
 };
 ```
