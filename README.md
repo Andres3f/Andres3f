@@ -68,7 +68,6 @@ const andres = {
 ## 💭 Actualmente
 
 - 🎓 **Estudiando**: Ingeniería en Sistemas en Universidad Mariano Galvez de Guatemala
-- 📖 **Cursando**: Algoritmos Avanzados, Desarrollo Web, Bases de Datos
 - 🔭 **Trabajando en**: Portafolio personal y proyectos académicos
 - 🌱 **Aprendiendo**: React, Node.js, Docker
 - 👯 **Buscando**: Oportunidades de prácticas profesionales
