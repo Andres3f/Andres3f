@@ -67,11 +67,11 @@ const andres = {
 
 ## 💭 Actualmente
 
-- 🎓 **Estudiando**: Ingeniería en Sistemas en Universidad Mariano Galvez de Guatemala
-- 🔭 **Trabajando en**: Portafolio personal y proyectos académicos
-- 🌱 **Aprendiendo**: React, Node.js, Docker
-- 👯 **Buscando**: Oportunidades de prácticas profesionales
-- 🎯 **Meta 2025**: Conseguir mi primera experiencia profesional
+- **Estudiando**: Ingeniería en Sistemas en Universidad Mariano Galvez de Guatemala
+- **Trabajando en**: Portafolio personal y proyectos académicos
+- **Aprendiendo**: React, Node.js, Docker
+- **Buscando**: Oportunidades de prácticas profesionales
+- **Meta 2025**: Conseguir mi primera experiencia profesional
 
 ---
 
